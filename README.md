@@ -7,7 +7,7 @@
 - 💬 Ask me about Web
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ...
+<!-- - ⚡ Fun fact: ... -->
 
 
 
@@ -31,3 +31,8 @@
 [Facebook]: https://www.facebook.com/keshavlingala
 [StackOverFlow]: https://stackoverflow.com/users/10281472/keshav-reddy
 [gitlab]: https://gitlab.com/keshavlingala
+
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
