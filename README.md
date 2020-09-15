@@ -3,8 +3,8 @@
 - 🔭 I’m currently at 💻 [Virtusa](https://www.virtusa.com/) 
 - 🌱 I’m currently learning Distributed Systems, Automation
 - 👯 I’m looking to collaborate on Realtime Projects
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about Web
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
