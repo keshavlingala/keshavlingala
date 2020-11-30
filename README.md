@@ -3,7 +3,8 @@
 - 🔭 I’m currently at 💻 [Virtusa](https://www.virtusa.com/) 
 - 🌱 I’m currently learning Distributed Systems, Automation
 - 👯 I’m looking to collaborate on Realtime Projects
-- 💬 Ask me about Web
+- 💬 Ask me about Web 🕸
+- 💻 Specialized in Full Stack Development from DOM --> Docker
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
