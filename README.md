@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at 💻 [Virtusa](https://www.virtusa.com/) 
+- 🔭 I’m currently at 💻 [CoMakeIT](https://www.comakeit.com) 
 - 🌱 I’m currently learning Distributed Systems, Automation
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
