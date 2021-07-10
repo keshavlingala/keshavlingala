@@ -37,9 +37,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr            ████████████████████░░░░░   80.23 % 
-Python       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
