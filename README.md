@@ -37,10 +37,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-MDX      1 hr 53 mins    ███████████████████▓░░░░░   79.02 % 
-CSS      12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Python   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JSX      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
