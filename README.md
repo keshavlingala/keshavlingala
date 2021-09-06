@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at 💻 [CoMakeIT](https://www.comakeit.com) 
+- 🔭 I’m currently at 💻 [DBS Asia Hub 2](https://www.dbs.com/asia-hub-2/index.html) 
 - 🌱 I’m currently learning Distributed Systems, Automation
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
