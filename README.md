@@ -37,10 +37,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     47 mins         ███████████▒░░░░░░░░░░░░░   45.72 % 
-Java         28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.89 % 
-SCSS         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Properties   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-XML          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
