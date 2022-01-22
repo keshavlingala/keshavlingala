@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently at 💻 [DBS Asia Hub 2](https://www.dbs.com/asia-hub-2/index.html) 
-- 🌱 I’m currently learning Distributed Systems, Automation
+- 🌱 I’m currently learning Microservices, Automation CI/CD
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 📫 How to reach me: ... -->
+- 📫 How to reach me: https://keshav.tech
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+<!-- - ⚡ Fun fact:  -->
 
 
 
