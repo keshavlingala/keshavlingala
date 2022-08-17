@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently at 💻 [DBS Asia Hub 2](https://www.dbs.com/asia-hub-2/index.html) 
-- 🌱 I’m currently learning Microservices, Automation CI/CD
+- 🔭 I’m currently pursuing master's degree at 💻 [California State University, Fullerton](http://www.fullerton.edu/) 
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
