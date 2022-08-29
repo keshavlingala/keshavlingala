@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML             5 mins          ████████████░░░░░░░░░░░░░   48.52 %
+JSON             3 mins          ███████░░░░░░░░░░░░░░░░░░   27.34 %
+GitIgnore file   2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.15 %
 ```
 
 <!--END_SECTION:waka-->
