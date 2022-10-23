@@ -5,7 +5,7 @@
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
 <!-- - 🤔 I’m looking for help with ... -->
-- 📫 How to reach me: https://keshav.tech
+- 📫 How to reach me: https://keshav.codes
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact:  -->
 
