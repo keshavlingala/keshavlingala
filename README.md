@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 2 mins    █████████████░░░░░░░░░░░░   51.37 %
-Markdown         1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-TypeScript       1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-SCSS             57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Solidity file    47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Solidity         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JavaScript       2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+TypeScript       2 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.04 %
+Markdown         1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+HTML             1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+SCSS             33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Solidity file    31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
