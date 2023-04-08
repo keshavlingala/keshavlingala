@@ -37,12 +37,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       1 hr 43 mins    █████████████████░░░░░░░░   68.01 %
-JSON             27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-Markdown         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-MDX              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-nx workspace     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-TypeScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
