@@ -37,7 +37,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+textmate         32 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
+Other            22 mins         ███████░░░░░░░░░░░░░░░░░░   28.14 %
 ```
 
 <!--END_SECTION:waka-->
