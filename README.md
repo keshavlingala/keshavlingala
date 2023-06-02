@@ -37,7 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+MDX              1 hr 34 mins    ████████████▓░░░░░░░░░░░░   51.11 %
+Kotlin           26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+HTML             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+JavaScript       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+YAML             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
