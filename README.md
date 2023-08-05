@@ -37,7 +37,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin           14 mins         ███████████████████████░░   92.49 %
+Groovy           1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
