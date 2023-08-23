@@ -37,7 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   32 mins         ████████████████░░░░░░░░░   64.11 %
+Ezhil        11 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 %
+JSON         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Python       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
