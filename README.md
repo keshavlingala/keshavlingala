@@ -27,3 +27,11 @@ Ezhil      0 secs          ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+[![wakatime](https://wakatime.com/badge/user/62bfdbc7-082c-40a7-b4bd-f9280d51aeed.svg)](https://wakatime.com/@62bfdbc7-082c-40a7-b4bd-f9280d51aeed)
+
+
+### Breakdown
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=keshavlingala)
