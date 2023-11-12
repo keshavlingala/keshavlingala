@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   19 mins         █████████████████████████   99.47 %
-Kotlin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Python   19 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
