@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing master's degree at 💻 [California State University, Fullerton](http://www.fullerton.edu/) 
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
-- 📫 How to reach me: https://keshav.codes , [Linkedin](https://www.linkedin.com/in/keshavlingala/)
+- 📫 How to reach me: https://keshav.codes
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
 ### Github Stats
