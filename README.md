@@ -4,12 +4,13 @@
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
 - 📫 How to reach me: https://keshav.codes
+- 📧 Email: social@keshav.codes
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
 ### Github Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshavlingala&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavlingala&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavlingala&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,scss,css,mdx,solidity&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 <p>
