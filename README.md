@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on Realtime Projects
 - 💬 Ask me about Web 🕸
 - 💻 Specialized in Full Stack Development from DOM --> Docker
-- 📫 How to reach me: https://keshav.codes
+- 📫 Portfolio: https://keshav.codes
 - 📧 Email: social@keshav.codes
 - ⚡ Fun fact: It’s all 0’s and 1’s
 
