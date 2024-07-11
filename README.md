@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                    39 mins         ████████████████▒░░░░░░░░   65.73 %
-sh                    10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-HTTP Request          6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Markdown              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Bash                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
