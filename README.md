@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          3 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.58 %
-TypeScript     2 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-HTML           1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-HTTP Request   1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
-CSV            16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other            4 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.04 %
+TypeScript       4 hrs 39 mins   ████████▓░░░░░░░░░░░░░░░░   34.91 %
+JavaScript       1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+HTTP Request     1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+JSON             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
