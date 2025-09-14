@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              8 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-SQL               4 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-HTML              3 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-TypeScript        3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
-HTTP Request      3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+Java              8 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.79 %
+TypeScript        5 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+HTTP Request      3 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Shell Script      2 hrs 21 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+HTML              2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 ```
 
 <!--END_SECTION:waka-->
