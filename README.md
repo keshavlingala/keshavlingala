@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML           4 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-TypeScript     3 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Gradle         3 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Markdown       3 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-HTTP Request   2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Gradle         7 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.60 %
+TypeScript     5 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
+Markdown       3 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+HTTP Request   2 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+SQL            2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
 ```
 
 <!--END_SECTION:waka-->
