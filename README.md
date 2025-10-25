@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  5 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.15 %
-HTTP Request          2 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-SQL                   2 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-TypeScript            2 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-.env file             1 hr 34 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Java                  7 hrs 42 mins   █████████▓░░░░░░░░░░░░░░░   38.31 %
+HTTP Request          3 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+SQL                   2 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+TypeScript            2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+.env file             1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
