@@ -26,11 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTTP Request     3 hrs 31 mins   ██████████████▓░░░░░░░░░░   58.02 %
-Java             1 hr 43 mins    ███████░░░░░░░░░░░░░░░░░░   28.43 %
-TypeScript       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Shell Script     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-.env file        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
