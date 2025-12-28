@@ -26,8 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java           25 mins         █████████████████████████   99.98 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
