@@ -1,22 +1,18 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on Realtime Projects
-- 💬 Ask me about Web 🕸
-- 💻 Specialized in Full Stack Development from DOM --> Docker
-- 📫 Portfolio: https://keshav.codes
-- 📧 Email: social@keshav.codes
-- ⚡ Fun fact: It’s all 0’s and 1’s
+Senior software engineer in Dayton, OH. Full-stack: Angular/React frontends to Spring Boot, Node and Go services on AWS and Kubernetes.
+~7 years across banking, big data and distribution, plus some gen-AI and agent experiments.
 
-### Github Stats
+More at **[keshav.codes](https://keshav.codes)** · social@keshav.codes
+
+### GitHub Stats
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshavlingala&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavlingala&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,scss,css,mdx,solidity&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keshavlingala&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshavlingala&theme=radical" alt="Most committed languages" />
 </p>
 
 <p>
-  
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavlingala&theme=radical" alt="rubiin"/>
- 
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavlingala&theme=radical" alt="Profile details" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=keshavlingala)
@@ -35,10 +31,4 @@ JSON              4 mins                ▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
 [![wakatime](https://wakatime.com/badge/user/62bfdbc7-082c-40a7-b4bd-f9280d51aeed.svg)](https://wakatime.com/@62bfdbc7-082c-40a7-b4bd-f9280d51aeed)
-
-
-### Breakdown
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=keshavlingala)

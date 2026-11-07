@@ -3,14 +3,17 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # 00:00 UTC; GitHub often starts scheduled runs a few hours late
     - cron: '0 0 * * *'
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      # master as of 2026-10-23 (WakaTime now needs an OAuth token in WAKATIME_API_KEY)
+      - uses: athul/waka-readme@8991b596d85696d98ea96f775390a1bbe266c8c9
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
