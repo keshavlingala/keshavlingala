@@ -22,11 +22,11 @@ More at **[keshav.codes](https://keshav.codes)** · social@keshav.codes
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 29 mins          ███████████▓░░░░░░░░░░░░░   46.67 %
-Markdown     1 hr 3 mins           ████████▒░░░░░░░░░░░░░░░░   33.19 %
-TypeScript   27 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
-JSON         10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Other        2 hrs 56 mins         ██████████▒░░░░░░░░░░░░░░   41.70 %
+Markdown     2 hrs 12 mins         ███████▓░░░░░░░░░░░░░░░░░   31.28 %
+TypeScript   1 hr 2 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
+Java         34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+JSON         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
