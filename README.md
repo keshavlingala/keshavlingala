@@ -22,11 +22,11 @@ More at **[keshav.codes](https://keshav.codes)** · social@keshav.codes
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 40 mins         ████████████▓░░░░░░░░░░░░   50.59 %
-Markdown     1 hr 51 mins          █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Other        1 hr 28 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Java         21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-HTML         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+TypeScript   4 hrs 12 mins         ██████████████▒░░░░░░░░░░   57.16 %
+Markdown     1 hr 20 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Other        46 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Java         21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+HTML         19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
